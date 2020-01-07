@@ -7,7 +7,7 @@
 
 ## Como executar
 
-<p>O  jeito mais simples é criar um projeto no netbeans e adicionar as dividos pacotes da pasta "src/". Outro jeito de executar é atravé do prompt de comando com a instrução abaixo:</p>
+<p>O  jeito mais simples é criar um projeto no netbeans e adicionar os devidos pacotes da pasta "src/". Outro jeito de executar é através do terminal ou prompt, no windows, com a instrução abaixo:</p>
 
 ``` bash
 $ java -jar dist/Calculadora.jar
