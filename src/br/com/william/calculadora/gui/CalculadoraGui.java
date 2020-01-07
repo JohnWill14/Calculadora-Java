@@ -20,7 +20,9 @@ public class CalculadoraGui extends javax.swing.JFrame {
      * Creates new form CalculadoraGui
      */
     public CalculadoraGui() {
+             
         initComponents();
+        this.setIconImage(new javax.swing.ImageIcon(getClass().getResource("/br/com/william/calculadora/multimidia/calculator.png")).getImage());
     }
 
     /**
